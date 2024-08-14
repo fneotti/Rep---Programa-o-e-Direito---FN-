@@ -1,5 +1,36 @@
+Exercício - Aula 07.08
+Conceitos:
 Banco de Dados, é um espaço virtual que armazena um ou vários tipos de dados de uma empresa ou instituição. https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
 Sistema Operacional, é uma configuração que irá auxiliar a demanda de trabalho. https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
 Dados, é um conjunto de informações, que podem ser números, porcentagens ou teorias que compõem um estudo ou pesquisa. https://escoladedados.org/tutoriais/o-que-sao-dados/#:~:text=Em%20resumo%2C%20dados%20s%C3%A3o%20valores,ser%20atribu%C3%ADdos%20de%20forma%20arbitr%C3%A1ria.
 Inteligencia Artificial. Sistema operacional autônomo que cria ideias, responde perguntas e auxilia na elaboração de trabalhos e serviços que simula a mente humana.https://www.alura.com.br/artigos/inteligencia-artificial-ia?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=165988188187&hsa_ad=703853806006&hsa_src=g&hsa_tgt=dsa-2276348409503&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMIj5btmIDjhwMVTAitBh1AkQESEAAYASAAEgIitvD_BwE
 Nuvem, é  um termo utilizado para descrever uma rede global de servidores, cada um com uma função única. https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/#:~:text=A%20defini%C3%A7%C3%A3o%20de%20nuvem%20pode,operam%20como%20um%20%C3%BAnico%20ecossistema.
+
+Exercício - Aula 14.08
+ 1ª Questão
+Letra a) A relação entre a LGPD e os Data Centers no Brasil
+- Os Data Centers ou Centro de Processamento de Dados tem como função armazenar e processar dados, equipamentos ou informações, com enfâse em viabilizar a segurança desses dados, tendo uma grande utilização por empresas e instituições. Diante disso, os Data Centers se relacionam com a LGPD, uma vez que, é preciso regular a política de acesso a esses ambientes, com o intuito de minimizar as probabilidades de roubo ou vazamento de dados e é atráves das suas regras, dessa legislação que isso será possível.
+
+Referências:
+https://www.lgpdbrasil.com.br/quais-os-impactos-da-lgpd-para-os-data-centers/#:~:text=Os%20Data%20Centers%2C%20tamb%C3%A9m%20chamado,hospedam%20dados%20e%20aplica%C3%A7%C3%B5es%20corporativas.
+https://thriveti.com.br/veja-a-relacao-entre-data-center-e-a-lei-geral-de-protecao-de-dados-lgpd/
+
+Letra b) Formatos de arquivos de dados proprietários e abertos
+- Formatos de arquivos de dados proprietários são aqueles que são controlados por uma empresa ou organização específica. Assim, o formato é desenvolvido e mantido por essa empresa e geralmente requer software especializado para ler, escrever ou modificar o arquivo.
+- Formatos de arquivos de dados abertos são aqueles cuja especificação é acessível publicamente e pode ser usada por qualquer pessoa ou empresa. Não há restrições quanto à criação, modificação ou uso desses arquivos.
+
+Referências:
+https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html
+
+Letra b.1) Forneça exemplos de formatos
+- Exemplos de formatos de Arquivos de Dados Proprietários são Microsoft Word (docx.); Microsoft Excel (.xls/.xlsx)
+- Exemplos de formatos de Arquivos de Dados Abertos são JavaScript Object Notation (json.); Portable Document Format (pdf.)
+
+Letra b.2) Discuta as implicações relacionadas a dados públicos
+- Dados públicos são dados que não estão sujeitos a limitações válidas de privacidade, segurança ou controle de acesso, reguladas por estatutos. Com isso, a LGPD define que uma empresa ou organização pode, sem a necessidade de um novo consentimento do indivíduo, mmanipular aqueles dados já anteriormente e manifestamente tornados públicos pelo seu titular. Porém, se uma organização quiser compartilhar esses dados com as demais, ela deverá obter outro consentimento para esse fim, sendo resguardadas as hipóteses de dispensa previstas na Lei. Ainda, a LGPD nesse viés se relaciona com a Lei de Acesso a Informação para que haja uma proveitosa aplicação integrada, respeitando os limites de proteção de cada dado, mesmo que estes sejma dados públicos. Portanto, a disponibilidade de dados públicos pode trazer muitos benefícios, como maior transparência, inovação e participação dos cidadãos. Contudo, é essencial abordar questões de privacidade, segurança e qualidade para maximizar os benefícios e minimizar os riscos associados a esses dados, onde a implementação de políticas e práticas que garantam a proteção e a precisão dos dados públicos é fundamental para garantir que esses benefícios sejam realizados de forma segura e eficaz.
+
+Referências:
+https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd
+https://www.tesourotransparente.gov.br/sobre/dados-abertos#:~:text=Dados%20p%C3%BAblicos%20s%C3%A3o%20dados%20que,de%20acesso%2C%20reguladas%20por%20estatutos.
+https://novavidati.com.br/2021/04/o-que-sao-dados-publicos-e-como-empresas-podem-utiliza-los/
+https://www.serpro.gov.br/lgpd/noticias/2019/lgpd-setor-publico-efeitos
