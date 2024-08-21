@@ -9,7 +9,8 @@ Nuvem, é  um termo utilizado para descrever uma rede global de servidores, cada
 Exercício - Aula 14.08
  1ª Questão
 Letra a) A relação entre a LGPD e os Data Centers no Brasil
-- Os Data Centers ou Centro de Processamento de Dados tem como função armazenar e processar dados, equipamentos ou informações, com enfâse em viabilizar a segurança desses dados, tendo uma grande utilização por empresas e instituições. Diante disso, os Data Centers se relacionam com a LGPD, uma vez que, é preciso regular a política de acesso a esses ambientes, com o intuito de minimizar as probabilidades de roubo ou vazamento de dados e é atráves das suas regras, dessa legislação que isso será possível.
+- Os Data Centers ou Centro de Processamento de Dados, pode ser um espaço e 
+tem como função armazenar e processar dados, equipamentos ou informações, com enfâse em viabilizar a segurança desses dados, tendo uma grande utilização por empresas e instituições. Diante disso, os Data Centers se relacionam com a LGPD, uma vez que, é preciso regular a política de acesso a esses ambientes, com o intuito de minimizar as probabilidades de roubo ou vazamento de dados e é atráves das suas regras, dessa legislação que isso será possível.
 
 Referências:
 https://www.lgpdbrasil.com.br/quais-os-impactos-da-lgpd-para-os-data-centers/#:~:text=Os%20Data%20Centers%2C%20tamb%C3%A9m%20chamado,hospedam%20dados%20e%20aplica%C3%A7%C3%B5es%20corporativas.
@@ -34,3 +35,51 @@ https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd
 https://www.tesourotransparente.gov.br/sobre/dados-abertos#:~:text=Dados%20p%C3%BAblicos%20s%C3%A3o%20dados%20que,de%20acesso%2C%20reguladas%20por%20estatutos.
 https://novavidati.com.br/2021/04/o-que-sao-dados-publicos-e-como-empresas-podem-utiliza-los/
 https://www.serpro.gov.br/lgpd/noticias/2019/lgpd-setor-publico-efeitos
+
+Exercício - Aula 21.08
+1ª Questão 
+Explique as diferenças entre 3 linguagens de programação. Iremos analisar seu conceito, desempenho e uso mais coumum
+Python 
+-  É uma linguagem de programação multiparadigma, suportando programação procedural, orientada a objetos e funcional. É conhecida por sua sintaxe clara e legível, que utiliza indentação para definir blocos de código e é amplamente utilizado em ciência de dados, aprendizado de máquina, desenvolvimento web, automação e prototipagem rápida.
+Java 
+- É orientada a objetos, o que significa que a programação é baseada em objetos e classes, tem uma estrutura de blocos baseada em chaves e uma abordagem mais formal para a declaração de tipos de dados e manejo de erros e também suporta programação procedural, é muito usado no desenvolvimento de aplicações empresariais, aplicativos Android.
+C++ 
+- É uma linguagem multiparadigma que suporta programação procedural, orientada a objetos e, em menor grau, programação funcional. Oferece um controle mais direto sobre o hardware e a memória,  é amplamente utilizado em desenvolvimento de sistemas, jogos, softwares que exigem alta performance e em situações onde o controle preciso sobre o hardware é crucial e tem uma estrutura baseada em chaves. 
+
+Diante disso, o Python e Java são mais voltados para abstração e simplicidade, enquanto C++ oferece controle mais direto e flexível, tendo um melhor desempehho. Ainda, o Python é popular em ciência de dados e prototipagem, já o Java em aplicações empresariais e Android, e o C++ em sistemas e jogos de alto desempenho.
+
+Letra a) Tente fazer um código mínimo em cada uma delas
+Letra b) Tente executar o seu código
+
+1º - Python 
+print('Hello world!')
+
+2º - Java 
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+    }
+}
+
+3º - C++
+#include <iostream>
+
+int main() {
+    std::cout << "Hello world!" << std::endl;
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
