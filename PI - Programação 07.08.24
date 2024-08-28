@@ -74,7 +74,38 @@ int main() {
     return 0;
 }
 
+Exercício Aula - 28.08
+1ª Questão
 
+Estrutura de Repetição:
+
+1ª) for i in range(7):
+  print (i)
+https://github.com/fneotti/Rep---Programa-o-e-Direito---FN-/blob/main/CODIGO%2001%20-%20DE%20REPETI%C3%87%C3%83O.png
+
+2º) count = 3
+while count < 2:
+    print (conut)
+    count +=1
+https://github.com/fneotti/Rep---Programa-o-e-Direito---FN-/blob/main/CODIGO%2002%20-%20DE%20REPETI%C3%87%C3%83O%20.png
+
+Estrutura de Tomada de Decisão:
+
+1ª) x = 10
+if x > 10:
+    print("x é maior que 10")
+elif x ==10:
+    print ("x é igual a 10")
+https://github.com/fneotti/Rep---Programa-o-e-Direito---FN-/blob/main/CODIGO%2001%20-%20TOMADA%20DE%20DECIS%C3%83O.png
+
+2ª)x = 3
+if x> 9:
+    print("x é maior que 9")
+elif x == 9:
+    print("x é igual a 9")
+else:
+    print("x é menor que 9")
+https://github.com/fneotti/Rep---Programa-o-e-Direito---FN-/blob/main/CODIGO%2002%20-%20TOMADA%20DE%20DECIS%C3%83O.png
 
 
 
