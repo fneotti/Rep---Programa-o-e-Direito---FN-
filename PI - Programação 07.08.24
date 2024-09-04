@@ -1,4 +1,4 @@
-Exercício - Aula 07.08
+ Exercício - Aula 07.08
 Conceitos:
 Banco de Dados, é um espaço virtual que armazena um ou vários tipos de dados de uma empresa ou instituição. https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
 Sistema Operacional, é uma configuração que irá auxiliar a demanda de trabalho. https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
@@ -107,6 +107,45 @@ else:
     print("x é menor que 9")
 https://github.com/fneotti/Rep---Programa-o-e-Direito---FN-/blob/main/CODIGO%2002%20-%20TOMADA%20DE%20DECIS%C3%83O.png
 
+Exercício Aula - 04.09
+1ª Questão 
+Implemente o algoritmo de ordenação Bubble Sort usando python:
+def bubble_sort(elemento): 
+    n = len(elemento) 
+    for i in range(n): 
+        for f in range(0, n-i-1): 
+            if elemento[f] > elemento[f+ 1 ]: 
+                elemento[f], elemento [f+1] = elemento[f+1], elemento[f] 
+    return elemento 
+
+lista = [2 ,- 5 , 7 , 90 , 80] 
+print ("Lista não ordenada: ", lista) 
+
+print ("Lista ordenada: " , bubble_sort(lista))
+
+RESULTADO:
+Lista não ordenada:  [2, -5, 7, 90, 80]
+Lista ordenada:  [-5, 2, 7, 80, 90]
+
+https://github.com/fneotti/Rep---Programa-o-e-Direito---FN-/blob/main/python%20-%20implementa%C3%A7%C3%A3o.png
+
+2ª Questão 
+def imprimir_vogais(palavra):
+    vogais = 'aeiouAEIOU'
+    resultado = ""
+    
+    for letra in palavra:
+        if letra in vogais:
+            resultado += letra
+    
+    print(resultado)
+
+# Exemplo de uso
+if __name__ == "__main__":
+    palavra = "DIREITO"
+    imprimir_vogais(palavra)
+
+https://github.com/fneotti/Rep---Programa-o-e-Direito---FN-/blob/main/python%20-%20vogais%20e%20palavra.png
 
 
 
